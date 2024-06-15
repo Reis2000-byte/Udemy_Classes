@@ -31,3 +31,51 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64
 
 !ENTRY com.st.stm32cube.ide.mcu.debug.swv 1 1 2024-05-29 15:53:59.498
 !MESSAGE SWV configuration; base: 36000000; minDiv: 18; maxDiv: 65535; maxSWO: 2000000; limit: 2000000 => SWO: 2000000; CPU: 16000000; div: 8
+!SESSION 2024-05-30 07:44:34.699 -----------------------------------------------
+eclipse.buildId=Version 1.15.1
+java.version=17.0.8.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-05-30 07:44:58.405
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-05-30 07:44:58.411
+!MESSAGE Log4j2 initialized with config file C:\Users\FREDRRX\Desktop\Repos\Udemy_Classes\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-05-30 07:45:08.787
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2024-06-13 09:07:06.168 -----------------------------------------------
+eclipse.buildId=Version 1.15.1
+java.version=17.0.8.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-06-13 09:08:08.727
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-06-13 09:08:08.731
+!MESSAGE Log4j2 initialized with config file C:\Users\FREDRRX\Desktop\Repos\Udemy_Classes\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-06-13 09:08:18.957
+!MESSAGE Started RMI Server, listening on port 41337
+!SESSION 2024-06-14 08:05:37.541 -----------------------------------------------
+eclipse.buildId=Version 1.15.1
+java.version=17.0.8.1
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.eclipse.core.resources 2 10035 2024-06-14 08:05:47.418
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2024-06-14 08:06:00.934
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2024-06-14 08:06:00.937
+!MESSAGE Log4j2 initialized with config file C:\Users\FREDRRX\Desktop\Repos\Udemy_Classes\.metadata\.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2024-06-14 08:06:50.520
+!MESSAGE Started RMI Server, listening on port 41337
